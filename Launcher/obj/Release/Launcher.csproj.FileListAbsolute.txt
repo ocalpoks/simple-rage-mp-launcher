@@ -1,0 +1,11 @@
+C:\Users\1\Desktop\RageMpLauncher\Launcher\bin\Release\Injector.exe
+C:\Users\1\Desktop\RageMpLauncher\Launcher\bin\Release\Launcher.exe.config
+C:\Users\1\Desktop\RageMpLauncher\Launcher\bin\Release\Launcher.exe
+C:\Users\1\Desktop\RageMpLauncher\Launcher\bin\Release\Launcher.pdb
+C:\Users\1\Desktop\RageMpLauncher\Launcher\obj\Release\Launcher.csprojAssemblyReference.cache
+C:\Users\1\Desktop\RageMpLauncher\Launcher\obj\Release\Launcher.MainWindow.resources
+C:\Users\1\Desktop\RageMpLauncher\Launcher\obj\Release\Launcher.Properties.Resources.resources
+C:\Users\1\Desktop\RageMpLauncher\Launcher\obj\Release\Launcher.csproj.GenerateResource.cache
+C:\Users\1\Desktop\RageMpLauncher\Launcher\obj\Release\Launcher.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\RageMpLauncher\Launcher\obj\Release\Launcher.exe
+C:\Users\1\Desktop\RageMpLauncher\Launcher\obj\Release\Launcher.pdb
